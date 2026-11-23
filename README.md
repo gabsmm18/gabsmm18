@@ -1,5 +1,7 @@
 # Mattia Mariani
 
+MSc Applied Economics and Finance, Copenhagen Business School 
+
 Empirical macroeconomics and systematic macro strategies,
 with a focus on monetary policy, interest rates and FX.
 
