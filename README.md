@@ -14,7 +14,7 @@ with a focus on monetary policy, interest rates and FX.
 
 ## Systematic Macro Strategies
 
-- [taylor-rule-duration-strategy](https://github.com/gabsmm18/taylor-rule-duration-strategy):
+- [Taylor-rule-duration-strategy](https://github.com/gabsmm18/taylor-rule-duration-strategy):
   Do deviations from the Taylor rule predict US Treasury yields? Regressions and a duration strategy, 1987–2026
 - [fx-carry-crash-insurance](https://github.com/gabsmm18/fx-carry-crash-insurance):
   Does a momentum filter protect the FX carry trade from crashes? G10, 2000–2026.
