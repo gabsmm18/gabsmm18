@@ -5,6 +5,18 @@ MSc Applied Economics and Finance, Copenhagen Business School
 Empirical macroeconomics and systematic macro strategies,
 with a focus on monetary policy, interest rates and FX.
 
+
+## Systematic Macro Strategies
+
+- [defending-the-krone](https://github.com/gabsmm18/defending-the-krone)
+  Can pressure on the Danish krone predict Danmarks Nationalbank's unilateral rate moves? 53 moves since 1999; pressure points the right way ahead of 38 of 43.
+- [Taylor-rule-duration-strategy](https://github.com/gabsmm18/taylor-rule-duration-strategy):
+  Do deviations from the Taylor rule predict US Treasury yields? Regressions and a duration strategy, 1987–2026
+- [fx-carry-crash-insurance](https://github.com/gabsmm18/fx-carry-crash-insurance):
+  Does a momentum filter protect the FX carry trade from crashes? G10, 2000–2026.
+- [Macro-Regimes-Asset-Allocation](https://github.com/gabsmm18/Macro-Regimes-Asset-Allocation):
+  Growth and inflation regimes for asset allocation, with walk-forward ML.
+
 ## Macroeconomic Analysis
 
 - [Taylor-rule-tracker](https://github.com/gabsmm18/Taylor-rule-tracker):
@@ -14,14 +26,6 @@ with a focus on monetary policy, interest rates and FX.
 - [Yield-Curve-Recession-Model](https://github.com/gabsmm18/Yield-Curve-Recession-Model):
   Probability of a US recession from the slope of the Treasury yield curve.
 
-## Systematic Macro Strategies
-
-- [Taylor-rule-duration-strategy](https://github.com/gabsmm18/taylor-rule-duration-strategy):
-  Do deviations from the Taylor rule predict US Treasury yields? Regressions and a duration strategy, 1987–2026
-- [fx-carry-crash-insurance](https://github.com/gabsmm18/fx-carry-crash-insurance):
-  Does a momentum filter protect the FX carry trade from crashes? G10, 2000–2026.
-- [Macro-Regimes-Asset-Allocation](https://github.com/gabsmm18/Macro-Regimes-Asset-Allocation):
-  Growth and inflation regimes for asset allocation, with walk-forward ML.
 
 ## Tools and Data Science
 
