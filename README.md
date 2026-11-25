@@ -8,7 +8,7 @@ with a focus on monetary policy, interest rates and FX.
 
 ## Systematic Macro Strategies
 
-- [Defending-the-krone](https://github.com/gabsmm18/defending-the-krone)
+- [Predicting the Nationalbank](https://github.com/gabsmm18/Predicting-the-Nationalbank)
   Can pressure on the Danish krone predict Danmarks Nationalbank's unilateral rate moves? 53 moves since 1999; pressure points the right way ahead of 38 of 43.
 - [Taylor-rule-duration-strategy](https://github.com/gabsmm18/taylor-rule-duration-strategy):
   Do deviations from the Taylor rule predict US Treasury yields? Regressions and a duration strategy, 1987–2026
