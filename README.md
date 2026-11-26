@@ -16,12 +16,9 @@ with a focus on monetary policy, interest rates and FX.
 
 ## Macroeconomic Analysis
 
-- [Taylor-rule-tracker](https://github.com/gabsmm18/Taylor-rule-tracker):
-  Estimated Taylor rules for the Fed and the ECB, 1987–2026.
-- [Okun-law-analysis](https://github.com/gabsmm18/Okun-law-analysis):
-  Okun's law across the US, the euro area and five European economies.
-- [Yield-Curve-Recession-Model](https://github.com/gabsmm18/Yield-Curve-Recession-Model):
-  Probability of a US recession from the slope of the Treasury yield curve.
+- [Taylor-rule-tracker](https://github.com/gabsmm18/Taylor-rule-tracker): Estimates monetary policy reaction functions for the Federal Reserve and the ECB from 1987 to 2026, using data from FRED and the ECB Data    Portal. The project measures how each central bank responds to inflation and economic slack, assesses whether the current policy stance is tight or loose relative to the rule, compares the rule-implied path       with market pricing, and runs forward-looking policy scenarios.
+- [Okun-law-analysis](https://github.com/gabsmm18/Okun-law-analysis): Estimates Okun's law, the link between output growth and unemployment, for the US, the euro area, Germany, France, Italy, Spain and Denmark.     The project compares how strongly labour markets respond to the business cycle across countries, tests whether the relationship has remained stable over time, and applies the estimates to diagnose current         labour-market conditions.
+- [Yield-Curve-Recession-Model](https://github.com/gabsmm18/Yield-Curve-Recession-Model): Estimates the probability of a US recession twelve months ahead from the slope of the Treasury yield curve. The project      tests whether the signal would have worked in real time, using only information available at each date, and examines every yield-curve inversion in the sample to assess the reliability of one of the most widely   followed recession indicators.
 
 
 ## Tools and Data Science
