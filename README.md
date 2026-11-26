@@ -10,12 +10,9 @@ with a focus on monetary policy, interest rates and FX.
 
 - [Predicting the Nationalbank](https://github.com/gabsmm18/Predicting-the-Nationalbank)
   A trading signal for Danish rates: an exchange-market pressure index anticipates the direction of Danmarks Nationalbank's unilateral rate moves (38 of 43 since 2001) and significantly predicts cuts and hikes      (logit t = 4.7 and −3.1)
-- [Taylor-rule-duration-strategy](https://github.com/gabsmm18/taylor-rule-duration-strategy):
-  Do deviations from the Taylor rule predict US Treasury yields? Regressions and a duration strategy, 1987–2026
-- [fx-carry-crash-insurance](https://github.com/gabsmm18/fx-carry-crash-insurance):
-  Does a momentum filter protect the FX carry trade from crashes? G10, 2000–2026.
-- [Macro-Regimes-Asset-Allocation](https://github.com/gabsmm18/Macro-Regimes-Asset-Allocation):
-  Growth and inflation regimes for asset allocation, with walk-forward ML.
+- [Taylor-rule-duration-strategy](https://github.com/gabsmm18/Taylor-rule-duration-strategy): A US Treasury duration strategy driven by Taylor-rule deviations. On 10-year Treasuries it beats buy-and-hold (Sharpe     0.41 vs 0.28) with a third less drawdown; in 2022 it returned +6.1% while long duration lost 6.1%.
+- [fx-carry-crash-insurance](https://github.com/gabsmm18/fx-carry-crash-insurance): A G10 FX carry strategy with a momentum crash filter. The filter cuts carry's crash risk (skewness −0.81 to −0.10) and turns       October 2008 from −11.2% into +3.6%, at the cost of a lower Sharpe ratio.
+- [Macro-Regimes-Asset-Allocation](https://github.com/gabsmm18/Macro-Regimes-Asset-Allocation): A regime-switching allocation strategy: classifies the economy into growth and inflation regimes and rotates across    assets, backtested with walk-forward machine learning on US data, 2007–2026.
 
 ## Macroeconomic Analysis
 
