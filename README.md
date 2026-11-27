@@ -8,6 +8,8 @@ with a focus on monetary policy, interest rates and FX.
 
 ## Systematic Macro Strategies
 
+-- [Danish-mbs-rate-neutral-carry](https://github.com/gabsmm18/Danish-mbs-rate-neutral-carry):
+  Rate-neutral relative value on Danish mortgage bonds, 1987–2026. Beta-hedging removes the hidden rate exposure of the yield spread (Sharpe 0.34 to 0.86, 1.21 with value timing) and reveals the negative            convexity of callable mortgages.
 - [Predicting the Nationalbank](https://github.com/gabsmm18/Predicting-the-Nationalbank)
   A trading signal for Danish rates: an exchange-market pressure index anticipates the direction of Danmarks Nationalbank's unilateral rate moves (38 of 43 since 2001) and significantly predicts cuts and hikes      (logit t = 4.7 and −3.1)
 - [Taylor-rule-duration-strategy](https://github.com/gabsmm18/Taylor-rule-duration-strategy): A US Treasury duration strategy driven by Taylor-rule deviations. On 10-year Treasuries it beats buy-and-hold (Sharpe     0.41 vs 0.28) with a third less drawdown; in 2022 it returned +6.1% while long duration lost 6.1%.
